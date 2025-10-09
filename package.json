@@ -19,7 +19,7 @@
 		"update-addon-deps": "node ./scripts/update-addon-dependencies.js"
 	},
 	"devDependencies": {
-		"@changesets/cli": "^2.29.4",
+		"@changesets/cli": "^2.29.6",
 		"@playwright/test": "^1.53.1",
 		"@sveltejs/create": "workspace:*",
 		"@sveltejs/eslint-config": "^8.2.0",
